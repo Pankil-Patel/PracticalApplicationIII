@@ -6,7 +6,7 @@ Link to my gibhub URL: [https://github.com/Pankil-Patel/practical_application_II
 ![alt text](https://github.com/Pankil-Patel/PracticalApplicationIII/blob/main/practical_application_III/images/1_totalrecords_eachcolumn.png?raw=true)
 
    Of the 41188 records, Total duplicate records removed: 12. Below is the plot showing the total remaining records.
- ![alt text](https://github.com/Pankil-Patel/PracticalApplicationIII/blob/main/practical_application_III/images/2_totalrecords_afterremovingduplicates.PNG)
+ ![alt text](https://github.com/Pankil-Patel/PracticalApplicationIII/blob/main/practical_application_III/images/2_totalrecords_afterremovingduplicates.png?raw=true)
 2. Based on the above finding, there are no specific outliers that we need to remove.
 3. Based on the unique values, only the yes/no column is getting changed to 1/0 which will allow us to include it in the correlation matrix. The correlation matrix can provide more information on whether the target data has any corelation with any of the other features.
 4.  ![alt text](images/3_correlationmatrix.PNG)
