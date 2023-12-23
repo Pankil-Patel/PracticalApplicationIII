@@ -80,7 +80,7 @@ Link to my gibhub URL: [https://github.com/Pankil-Patel/practical_application_II
   </tbody>
 </table>
 </div>
-10. <div>
+10. After evaluation using GridSearchCV and hyperparameters, below are the result of all the models<div>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
