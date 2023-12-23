@@ -3,7 +3,7 @@ AI ML practical application 3
 Link to my gibhub URL: [https://github.com/Pankil-Patel/practical_application_III/edit/main/prompt_III.ipynb](https://github.com/Pankil-Patel/PracticalApplicationIII/blob/main/practical_application_III/prompt_III.ipynb)
 <br/><br/><b>Key Findings</b>
 1. Original total records in the dataset was as shown below.
-![alt text](images/1_totalrecords_eachcolumn.PNG)
+![alt text](https://github.com/Pankil-Patel/PracticalApplicationIII/blob/main/practical_application_III/images/1_totalrecords_eachcolumn.png?raw=true)
 
    Of the 41188 records, Total duplicate records removed: 12. Below is the plot showing the total remaining records.
  ![alt text](images/2_totalrecords_afterremovingduplicates.PNG)
