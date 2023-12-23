@@ -9,7 +9,7 @@ Link to my gibhub URL: [https://github.com/Pankil-Patel/practical_application_II
  ![alt text](https://github.com/Pankil-Patel/PracticalApplicationIII/blob/main/practical_application_III/images/2_totalrecords_afterremovingduplicates.png?raw=true)
 2. Based on the above finding, there are no specific outliers that we need to remove.
 3. Based on the unique values, only the yes/no column is getting changed to 1/0 which will allow us to include it in the correlation matrix. The correlation matrix can provide more information on whether the target data has any corelation with any of the other features.
-4.  ![alt text](images/3_correlationmatrix.PNG)
+4.  ![alt text](https://github.com/Pankil-Patel/PracticalApplicationIII/blob/main/practical_application_III/images/3_correlationmatrix.png?raw=true))
 <br/>Based on the correlation map, The duration and previous call can possibly be two reasons that are directly related to customer making a decsion. However, based on the data the user's employment status, Euro Rate, consumer price index and employment variable rate could be impacting that decision. 
 5. Based on the histogram plots, the data is distributed for most columns except for duration, campaign, pdays and previous. We are going to keep this records intact for now until further analysis.
 6. Based on the box plots, only Job, Month and POutcome are the only three categorical features that have direct relationship with outcome of user subscribing to bank's cd.
