@@ -1,6 +1,6 @@
 # Practical Application III
 AI ML practical application 3
-Link to my gibhub URL: https://github.com/Pankil-Patel/practical_application_III/edit/main/prompt_III.ipynb
+Link to my gibhub URL: [https://github.com/Pankil-Patel/practical_application_III/edit/main/prompt_III.ipynb](https://github.com/Pankil-Patel/PracticalApplicationIII/blob/main/practical_application_III/prompt_III.ipynb)
 <br/><br/><b>Key Findings</b>
 1. Original total records in the dataset was as shown below.
 ![alt text](images/1_totalrecords_eachcolumn.PNG)
