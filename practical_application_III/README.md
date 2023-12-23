@@ -17,19 +17,7 @@ Link to my gibhub URL: [https://github.com/Pankil-Patel/practical_application_II
 8. Based on the initial model performance for <b>LogisticRegression</b>, the accuracy of the model was <b>89.32%</b> which was better than the baseline performance set for 80%.
 9. Based on the table below, <b>SVM</b> took the longest in terms of execution time but had similar Test accuracy, precision and recall score to <b>LogisticRegression</b> suggesting LogisticRegression performed the best. 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -93,19 +81,6 @@ Link to my gibhub URL: [https://github.com/Pankil-Patel/practical_application_II
 </table>
 </div>
 10. <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
